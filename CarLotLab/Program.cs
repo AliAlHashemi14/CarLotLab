@@ -26,7 +26,7 @@ Remove(choice);
 Console.WriteLine();
 ListCars();
 Console.WriteLine("Awesome! Our finance department will contact you regarding the paperwork.\nHave a nice day!");
-Console.Read();
+//Console.Read();
 
 
 
